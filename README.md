@@ -22,3 +22,4 @@ leetcode to practice
 5. 有效的字母异位词
 6. 实现 strStr() 函数
 7. 字符串转换整数 (atoi)
+8. 报数
