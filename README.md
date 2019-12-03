@@ -35,3 +35,4 @@ leetcode to practice
 
 ## 树专题
 1. 二叉树的最大深度
+2. 验证二叉搜索树
