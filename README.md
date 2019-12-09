@@ -53,3 +53,6 @@ leetcode to practice
 ## 设计问题专题
 1. Shuffle an Array
 2. 最小栈
+
+## 数学专题
+1. 3的幂
