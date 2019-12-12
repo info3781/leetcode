@@ -62,3 +62,4 @@ leetcode to practice
 
 ## 其他
 1. 有效的括号
+2. 缺失数字
