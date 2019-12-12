@@ -63,3 +63,4 @@ leetcode to practice
 ## 其他
 1. 有效的括号
 2. 缺失数字
+3. 帕斯卡三角形
