@@ -56,3 +56,4 @@ leetcode to practice
 
 ## 数学专题
 1. 3的幂
+2. Fizz Buzz
