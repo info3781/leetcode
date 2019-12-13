@@ -1,5 +1,5 @@
 # leetcode
-leetcode to practice
+[leetcode to practice](https://leetcode-cn.com/explore/featured/card/top-interview-questions-easy)
 
 ## 数组专题
 1. 从排序数组中删除重复项
